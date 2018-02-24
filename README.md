@@ -14,3 +14,9 @@ Python 2.7 or hiher: You can download it from the official site - [Python Softwa
 2. In the command line change directory: ` ~/Movie_Project `
 
 3. Run main.py: ` python main.py `
+
+# Built With
+
+* [IDLE](https://docs.python.org/3/library/idle.html) - Python’s Integrated Development and Learning Environment.
+
+
