@@ -9,10 +9,8 @@ Python 2.7 or hiher: You can download it from the official site - [Python Softwa
 # Installation 
 
 
-1. clone the project to your computer 
+1. clone the project to your computer: ` git clone https://github.com/najeebael/Movie_Project `
 
-` git clone https://github.com/najeebael/Movie_Project `
-
-2. change directory ~/Movie_Project
+2. change directory: ` ~/Movie_Project `
 
 3. Run main.py: ` python main.py `
